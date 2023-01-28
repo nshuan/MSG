@@ -1,0 +1,13 @@
+D:\DOCUMENTS\20221\OOP\Report\Projects\Examples\MSG\MessageLogs\bin\Debug\MessageLogs.exe.config
+D:\DOCUMENTS\20221\OOP\Report\Projects\Examples\MSG\MessageLogs\bin\Debug\MessageLogs.exe
+D:\DOCUMENTS\20221\OOP\Report\Projects\Examples\MSG\MessageLogs\bin\Debug\MessageLogs.pdb
+D:\DOCUMENTS\20221\OOP\Report\Projects\Examples\MSG\MessageLogs\obj\Debug\MessageLogs.csproj.AssemblyReference.cache
+D:\DOCUMENTS\20221\OOP\Report\Projects\Examples\MSG\MessageLogs\obj\Debug\MessageLogs.csproj.SuggestedBindingRedirects.cache
+D:\DOCUMENTS\20221\OOP\Report\Projects\Examples\MSG\MessageLogs\obj\Debug\MessageLogs.Form1.resources
+D:\DOCUMENTS\20221\OOP\Report\Projects\Examples\MSG\MessageLogs\obj\Debug\MessageLogs.Properties.Resources.resources
+D:\DOCUMENTS\20221\OOP\Report\Projects\Examples\MSG\MessageLogs\obj\Debug\MessageLogs.csproj.GenerateResource.cache
+D:\DOCUMENTS\20221\OOP\Report\Projects\Examples\MSG\MessageLogs\obj\Debug\MessageLogs.csproj.CoreCompileInputs.cache
+D:\DOCUMENTS\20221\OOP\Report\Projects\Examples\MSG\MessageLogs\obj\Debug\MessageLogs.exe
+D:\DOCUMENTS\20221\OOP\Report\Projects\Examples\MSG\MessageLogs\obj\Debug\MessageLogs.pdb
+D:\DOCUMENTS\20221\OOP\Report\Projects\Examples\MSG\MessageLogs\obj\Debug\MessageLogs.Client.resources
+D:\DOCUMENTS\20221\OOP\Report\Projects\Examples\MSG\MessageLogs\obj\Debug\MessageLogs.Manager.resources
